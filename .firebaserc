@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "curriv-535aa": {
+      "hosting": {
+        "Curriv": [
+          "curriv"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "curriv-535aa"
+  }
+}
